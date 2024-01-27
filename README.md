@@ -50,4 +50,4 @@ async fn main() -> Result<(), Error> {
 Feel free to explore and modify the code as needed for your projects! Happy coding! 🎉
 ```
 
-Feel free to customize the content or add more sections based on your project's specific features and requirements.
+---------------------------------------------------------------------------------------------------------------------
