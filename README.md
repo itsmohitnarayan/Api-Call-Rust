@@ -46,7 +46,7 @@ async fn main() -> Result<(), Error> {
 
 - This project is for educational purposes and serves as a basic example of making web API calls in Rust.
 - Ensure you have a stable internet connection to fetch data from the GitHub API.
-
+```
 Feel free to explore and modify the code as needed for your projects! Happy coding! 🎉
 ```
 
